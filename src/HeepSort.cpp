@@ -40,7 +40,7 @@ void HeepSort (int a[], int len)
     }
 }
 
-int main (void)
+int main7 (void)
 {
     //a[0]不是序列的一部分,设置为空位
     int a[] = {-1, 21, 3, 12, 0, 5, 3, 18, 22, 30, 8, 6 };
