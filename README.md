@@ -15,6 +15,10 @@ demo
 	ShellSort.cpp	-------------	希尔排序
 	QuickSort.cpp	-------------	快速排序
 	HeepSort.cpp	-------------	堆排序
+	Question3.cpp	-------------	二维数组中的查找
+	Question4.cpp	-------------	替换空格
+	Question5.cpp	-------------	从尾到头打印链表
+
 	
 	
 
